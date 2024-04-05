@@ -39,7 +39,7 @@
         "depends": []
       },
       "externalBin": [
-        "resources/bin/linux/esrgan"
+        "resources/bin/esrgan"
       ],
       "identifier": "com.somaiya.upscaile",
       "longDescription": "",
